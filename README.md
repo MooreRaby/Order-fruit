@@ -1,2 +1,2 @@
-![alt](assets/images/img1.jpg =300x)
+![alt](assets/images/img1.jpg)
 
